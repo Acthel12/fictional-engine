@@ -1,0 +1,17 @@
+{
+	id: "3dc84f9e-8bce-368e-b1dc-575d974b897d"
+	type: "player"
+	player_name: "Acthel12"
+	ranks: {
+		3dc84f9e-8bce-368e-b1dc-575d974b897d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Acthel12"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D7FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
